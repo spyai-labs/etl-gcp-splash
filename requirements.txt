@@ -1,0 +1,15 @@
+google-cloud-bigquery==3.25.0
+google-cloud-bigquery-storage==2.25.0
+google-cloud-secret-manager==2.21.1
+google-cloud-storage==2.16.0
+google-cloud-core==2.4.1
+numpy==1.26.4
+pandas==2.2.2
+db-dtypes==1.2.0
+requests==2.32.3
+python-dotenv==1.0.1
+urllib3==1.26.15
+tenacity==9.0.0
+pydantic==2.11.4
+pydantic_core==2.33.2
+pytest==8.3.5
